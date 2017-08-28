@@ -1,0 +1,13 @@
+raffle
+10-name = file  bring in names from a list in a .txt file   (use a prexisting .txt file with names inside it)
+input() ->X (not allowed to use input())
+using rng to designate a king ---- random -> 1 king
+
+result
+
+using pandas to create a chart with the dots, and then at the bottom it shows the result of the raffle
+mina   tom
+:       :
+:       :
+:       :
+no     king
